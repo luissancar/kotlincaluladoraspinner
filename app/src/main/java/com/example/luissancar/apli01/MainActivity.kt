@@ -82,12 +82,13 @@ class MainActivity : AppCompatActivity() {
             3->if (o2==0) {
                 res = -1
                 val context = applicationContext
-                Toast.makeText(context,"Divión por 0", Toast.LENGTH_LONG).show()
+                Toast.makeText(context,R.string.division, Toast.LENGTH_LONG).show()
             }
             else
                 res=o1/o2
 
         }
+
         resultado.text=res.toString()
 
 

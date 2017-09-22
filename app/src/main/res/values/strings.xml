@@ -9,4 +9,5 @@
         <item>Multiplica</item>
         <item>Divide</item>
     </string-array>
+    <string name="division">Division por  0</string>
 </resources>

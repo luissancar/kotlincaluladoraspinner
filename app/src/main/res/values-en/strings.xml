@@ -11,4 +11,5 @@
         <item>Multiply</item>
         <item>Divide</item>
     </string-array>
+    <string name="division">Division by 0</string>
 </resources>
